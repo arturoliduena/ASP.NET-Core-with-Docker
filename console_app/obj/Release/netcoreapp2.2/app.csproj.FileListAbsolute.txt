@@ -1,0 +1,11 @@
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/bin/Release/netcoreapp2.2/app.deps.json
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/bin/Release/netcoreapp2.2/app.runtimeconfig.json
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/bin/Release/netcoreapp2.2/app.runtimeconfig.dev.json
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/bin/Release/netcoreapp2.2/app.dll
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/bin/Release/netcoreapp2.2/app.pdb
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/obj/Release/netcoreapp2.2/app.csprojAssemblyReference.cache
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/obj/Release/netcoreapp2.2/app.csproj.CoreCompileInputs.cache
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/obj/Release/netcoreapp2.2/app.AssemblyInfoInputs.cache
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/obj/Release/netcoreapp2.2/app.AssemblyInfo.cs
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/obj/Release/netcoreapp2.2/app.dll
+/Users/artur/Development/tests/ASP.NET-Core-with-Docker/console_app/obj/Release/netcoreapp2.2/app.pdb

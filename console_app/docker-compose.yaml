@@ -1,0 +1,6 @@
+version: '2'
+services:
+  console_app:
+    build:
+      context: .
+      dockerfile: ./Dockerfile

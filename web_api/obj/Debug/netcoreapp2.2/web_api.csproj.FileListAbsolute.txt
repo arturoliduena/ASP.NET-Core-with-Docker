@@ -1,0 +1,14 @@
+/Users/artur/Development/tests/web_api/bin/Debug/netcoreapp2.2/web_api.deps.json
+/Users/artur/Development/tests/web_api/bin/Debug/netcoreapp2.2/web_api.runtimeconfig.json
+/Users/artur/Development/tests/web_api/bin/Debug/netcoreapp2.2/web_api.runtimeconfig.dev.json
+/Users/artur/Development/tests/web_api/bin/Debug/netcoreapp2.2/web_api.dll
+/Users/artur/Development/tests/web_api/bin/Debug/netcoreapp2.2/web_api.pdb
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.csprojAssemblyReference.cache
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.csproj.CoreCompileInputs.cache
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.RazorAssemblyInfo.cache
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.RazorAssemblyInfo.cs
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.AssemblyInfoInputs.cache
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.AssemblyInfo.cs
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.RazorTargetAssemblyInfo.cache
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.dll
+/Users/artur/Development/tests/web_api/obj/Debug/netcoreapp2.2/web_api.pdb
